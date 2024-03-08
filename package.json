@@ -1,0 +1,28 @@
+{
+  "name": "salak",
+  "version": "1.0.0",
+  "description": "help your fruit journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alinnezha/salak.git"
+  },
+  "keywords": [
+    "matcha",
+    "latte"
+  ],
+  "author": "Vydha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinnezha/salak/issues"
+  },
+  "homepage": "https://github.com/alinnezha/salak#readme",
+  "dependencies": {
+    "cubitt":"^1.0.3",
+    "guessdc":"^1.0.0",
+    "matchax":"^1.0.1"
+  }
+}
